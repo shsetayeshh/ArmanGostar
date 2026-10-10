@@ -20,7 +20,7 @@
                 </div>
                 <div class="flex gap-10 text-paper">
                     <div><p class="font-black text-3xl text-amber tech-label">+2400</p><p class="text-paper/50 text-sm mt-1">فارغ‌التحصیل</p></div>
-                    <div><p class="font-black text-3xl text-amber tech-label">9</p><p class="text-paper/50 text-sm mt-1">رشته‌ی فعال</p></div>
+                    <div><p class="font-black text-3xl text-amber tech-label">10</p><p class="text-paper/50 text-sm mt-1">رشته‌ی فعال</p></div>
                     <div><p class="font-black text-3xl text-amber tech-label">%87</p><p class="text-paper/50 text-sm mt-1">اشتغال پس از دوره</p></div>
                 </div>
             </div>

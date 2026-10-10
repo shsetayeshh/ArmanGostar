@@ -8,6 +8,7 @@
      @vite(['resources/css/app.css', 'resources/js/app.js'])
   
     <link href="https://fonts.googleapis.com/css2?family=Vazirmatn:wght@300;400;500;600;700;800;900&family=JetBrains+Mono:wght@500;700&display=swap" rel="stylesheet">
+    <link rel="icon" href="{{ asset('a.png') }}" type="image/x-icon">
     <style>
         body { font-family: 'Vazirmatn', sans-serif; }
         .tech-label { font-family: 'JetBrains Mono', monospace; }
