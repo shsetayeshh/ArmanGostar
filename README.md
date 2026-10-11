@@ -35,9 +35,6 @@ A Laravel-based website developed for **Arman Gostar Technical and Vocational In
 
 ![Consultation Form](screenshots/consultation-form.png)
 
-### Responsive Design
-
-![Responsive Design](screenshots/responsive-design.png)
 
 ## Technologies Used
 
