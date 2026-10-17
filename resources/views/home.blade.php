@@ -105,7 +105,7 @@
                 </div>
             @endif
 
-            @auth
+            
             <form method="POST" action="{{ route('consultation.request') }}" class="space-y-3">
                 @csrf
                 <input type="text" name="name" required placeholder="نام و نام خانوادگی"
@@ -129,11 +129,7 @@
                     درخواست مشاوره
                 </button>
             </form>
-            @else
-            <a href="/login" class="inline-block bg-amber hover:bg-[#ffb845] text-graphite font-bold px-8 py-4 rounded transition">
-                برای درخواست مشاوره، ابتدا وارد حساب کاربری شوید
-            </a>
-            @endauth
+           
         </div>
     </section>
 

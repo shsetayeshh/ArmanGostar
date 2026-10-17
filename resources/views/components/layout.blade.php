@@ -263,7 +263,7 @@
             <div>
                 <p class="text-paper font-semibold mb-3 text-sm">تماس</p>
                 <ul class="space-y-2 text-paper/45 text-sm tech-label">
-                    <li>021-56341570</li>
+                    <li>021-56351570</li>
                     <li>021-56120519</li>
                     <li>09125249445</li>
                 </ul>
